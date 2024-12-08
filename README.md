@@ -1,4 +1,4 @@
-# Three js beginner task 1
+# Three js beginner task 2
 
 Train basic geometries and animation. Using vanilla js, three js.
 
